@@ -6,3 +6,4 @@ numpy~=2.1.2
 pillow~=11.0.0
 opencv-python~=4.10.0.84
 console-menu~=0.8.0
+libtorrent~=2.0.9
